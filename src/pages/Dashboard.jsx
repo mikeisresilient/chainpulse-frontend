@@ -130,7 +130,7 @@ function Dashboard() {
       <main className="dashboard-state">
         <div className="loading-spinner" />
 
-        <p>Loading ChainPulse... This might take up to a minute, please be patient</p>
+        <p>Loading ChainPulse... <br>This might take up to a minute, Server is waking up. Please be patient</br></p>
       </main>
     );
   }
